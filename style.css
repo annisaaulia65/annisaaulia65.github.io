@@ -1,6 +1,10 @@
 body {
 	background-color: honeydew
 }
+.jumbotron {
+	padding: 2rem 1rem;
+	background-color: #e2edff;
+}
 .h21 {
 	font-family: verdana;
 	font-size: 23px;
