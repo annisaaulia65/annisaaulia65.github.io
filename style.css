@@ -23,11 +23,11 @@ body {
 table {
 	font-family: times; 
 	font-size: 18px;
-	width: 95%;
+	width: 65%;
 }
 table, tr, td {
-	padding: 5px;
-	padding-left: 60px;
+	padding: 3px;
+	padding-left: 25px;
 }
 .h21 { 
 	font-family: monaco, monospace;
