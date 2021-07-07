@@ -23,6 +23,7 @@ body {
 table {
 	font-family: times; 
 	font-size: 18px;
+	width: 95%;
 }
 table, tr, td {
 	padding: 5px;
