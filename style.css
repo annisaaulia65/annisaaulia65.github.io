@@ -1,0 +1,54 @@
+body {
+	background-color: #fff5ee;
+}
+.navbar {
+	background-color: #e9967a;
+	font-family: Georgia, serif;
+}
+.jumbotron {
+	padding-top: 6rem;
+	background-color: #ffdab9;
+}
+.display-4 {
+	font-family: "Courier New", monospace;
+	font-size: 35px;
+}
+.lead {
+	font-family: "Lucida Console", monospace;
+	font-size: 23px;
+}
+.row1 {
+	border-width: small;
+}
+table {
+	font-family: times; 
+	font-size: 18px;
+}
+table, tr, td {
+	padding: 5px;
+	padding-left: 60px;
+}
+.h21 { 
+	font-family: monaco, monospace;
+	font-size: 25px;
+	font-weight: bold;
+}
+p {
+	text-align: justify;
+	font-family: times;
+	font-size: 20px;
+}
+.h22 {
+	font-family: verdana, sans-serif;
+	font-size: 35px;
+	font-weight: bold;
+}
+section {
+	padding-top: 4rem;
+}
+footer{
+	background-color: #ffdab9
+}
+.card-text {
+	text-align: center;
+}
